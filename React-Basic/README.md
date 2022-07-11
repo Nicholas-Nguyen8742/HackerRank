@@ -4,4 +4,8 @@
 
 [Verified Certificate Link](https://www.hackerrank.com/certificates/38f8096b8e86)
 
-
+<div align="center"> 
+    <a href="https://www.hackerrank.com/certificates/38f8096b8e86">
+        <img src="../Certificates/hackerrank-react.png">
+    </a>
+</div>
